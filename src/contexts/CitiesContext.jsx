@@ -1,6 +1,6 @@
 import { createContext, useEffect, useContext, useReducer, useCallback } from 'react';
 
-const BASE_URL = 'http://localhost:9000';
+const BASE_URL = 'http://localhost:3000';
 
 const CitiesContext = createContext();
 
